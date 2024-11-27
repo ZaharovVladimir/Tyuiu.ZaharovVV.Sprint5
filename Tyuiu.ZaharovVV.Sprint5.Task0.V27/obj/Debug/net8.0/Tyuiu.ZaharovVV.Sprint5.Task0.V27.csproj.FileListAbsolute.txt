@@ -1,0 +1,6 @@
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint5\Tyuiu.ZaharovVV.Sprint5.Task0.V27\obj\Debug\net8.0\Tyuiu.ZaharovVV.Sprint5.Task0.V27.csproj.AssemblyReference.cache
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint5\Tyuiu.ZaharovVV.Sprint5.Task0.V27\obj\Debug\net8.0\Tyuiu.ZaharovVV.Sprint5.Task0.V27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint5\Tyuiu.ZaharovVV.Sprint5.Task0.V27\obj\Debug\net8.0\Tyuiu.ZaharovVV.Sprint5.Task0.V27.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint5\Tyuiu.ZaharovVV.Sprint5.Task0.V27\obj\Debug\net8.0\Tyuiu.ZaharovVV.Sprint5.Task0.V27.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint5\Tyuiu.ZaharovVV.Sprint5.Task0.V27\obj\Debug\net8.0\Tyuiu.ZaharovVV.Sprint5.Task0.V27.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint5\Tyuiu.ZaharovVV.Sprint5.Task0.V27\obj\Debug\net8.0\Tyuiu.ZaharovVV.Sprint5.Task0.V27.sourcelink.json
