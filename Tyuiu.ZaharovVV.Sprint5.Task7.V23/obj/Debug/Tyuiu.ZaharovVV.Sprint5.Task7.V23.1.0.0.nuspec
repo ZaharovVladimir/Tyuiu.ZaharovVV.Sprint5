@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Tyuiu.ZaharovVV.Sprint5.Task7.V23</id>
+    <version>1.0.0</version>
+    <authors>Tyuiu.ZaharovVV.Sprint5.Task7.V23</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="308f2256dc39f0b7d315663f5c1e4050f46774a8" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint5\Tyuiu.ZaharovVV.Sprint5.Task7.V23\bin\Debug\net8.0\Tyuiu.ZaharovVV.Sprint5.Task7.V23.runtimeconfig.json" target="lib\net8.0\Tyuiu.ZaharovVV.Sprint5.Task7.V23.runtimeconfig.json" />
+    <file src="C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint5\Tyuiu.ZaharovVV.Sprint5.Task7.V23\bin\Debug\net8.0\Tyuiu.ZaharovVV.Sprint5.Task7.V23.dll" target="lib\net8.0\Tyuiu.ZaharovVV.Sprint5.Task7.V23.dll" />
+  </files>
+</package>
