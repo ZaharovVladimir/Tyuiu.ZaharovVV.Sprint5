@@ -1,5 +1,5 @@
 ﻿using Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib;
-namespace Tyuiu.KulkoDA.Sprint5.Task0.V27
+namespace Tyuiu.ZaharovVV.Sprint5.Task0.V27
 {
     internal class Program
     {
