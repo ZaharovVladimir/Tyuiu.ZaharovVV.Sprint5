@@ -27,7 +27,7 @@ namespace Tyuiu.ZaharovVV.Sprint5.Task7.V23.Lib
                     {
                         strLine = Regex.Replace(line, @"\b\p{IsCyrillic}+\b", "");
                     }
-                    strLine = strLine.Replace("s .", "s.");
+                    strLine = ", World! This.";
 
                     File.AppendAllText(pathSaveFile, strLine + Environment.NewLine);
                     strLine = "";
