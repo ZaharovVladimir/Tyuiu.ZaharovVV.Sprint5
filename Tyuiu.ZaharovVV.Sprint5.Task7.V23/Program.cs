@@ -13,7 +13,7 @@ namespace Tyuiu.ZaharovVV.Sprint5.Task7.V23
 
 
             string path = $@"C:\DataSprint5\InPutDataFileTask7V23.txt";
-            string pathSaveFile = $@"{Directory.GetCurrentDirectory()}\OutPutDataFileTask7V23.txt";
+            string pathSaveFile = $@"C:\DataSprint5\OutPutDataFileTask7V23.txt";
 
 
             Console.WriteLine("Данные находяться в файле: " + path);
