@@ -1,3 +1,5 @@
+using Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib;
+
 namespace Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test
 {
     [TestClass]
@@ -6,7 +8,8 @@ namespace Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test
         [TestMethod]
         public void TestMethod1()
         {
-            string path = @"C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint5\Tyuiu.ZaharovVV.Sprint5.Task0.V27\bin\Debug\OutPutFileTask0.txt";
+            DataService ds = new DataService();
+            string path = ds.SaveToFileTextData(3);
             FileInfo fileinfo = new FileInfo(path);
             bool fileExist = fileinfo.Exists;
             bool wait = true;

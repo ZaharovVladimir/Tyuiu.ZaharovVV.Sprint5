@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13047F2D-F610-49EF-8ABB-3A731AB0EF40}|Tyuiu.ZaharovVV.Sprint5.Task0.V27\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint5\\tyuiu.zaharovvv.sprint5.task0.v27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13047F2D-F610-49EF-8ABB-3A731AB0EF40}|Tyuiu.ZaharovVV.Sprint5.Task0.V27\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.csproj|solutionrelative:tyuiu.zaharovvv.sprint5.task0.v27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A260A880-C6B2-447A-BA27-40C94DC8DBB8}|Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint5\\tyuiu.zaharovvv.sprint5.task0.v27.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A260A880-C6B2-447A-BA27-40C94DC8DBB8}|Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test.csproj|solutionrelative:tyuiu.zaharovvv.sprint5.task0.v27.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92F156E0-2245-4A32-B5C6-783479D7AC52}|Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint5\\tyuiu.zaharovvv.sprint5.task0.v27.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92F156E0-2245-4A32-B5C6-783479D7AC52}|Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib.csproj|solutionrelative:tyuiu.zaharovvv.sprint5.task0.v27.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A260A880-C6B2-447A-BA27-40C94DC8DBB8}|Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint5\\tyuiu.zaharovvv.sprint5.task0.v27.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A260A880-C6B2-447A-BA27-40C94DC8DBB8}|Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test.csproj|solutionrelative:tyuiu.zaharovvv.sprint5.task0.v27.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13047F2D-F610-49EF-8ABB-3A731AB0EF40}|Tyuiu.ZaharovVV.Sprint5.Task0.V27\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint5\\tyuiu.zaharovvv.sprint5.task0.v27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13047F2D-F610-49EF-8ABB-3A731AB0EF40}|Tyuiu.ZaharovVV.Sprint5.Task0.V27\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.csproj|solutionrelative:tyuiu.zaharovvv.sprint5.task0.v27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint5\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test\\DataServiceTest.cs",
-              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint5\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test\\DataServiceTest.cs",
-              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test\\DataServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint5\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test\\DataServiceTest.cs*",
+              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint5.Task0.V27.Test\\DataServiceTest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T00:14:51.042Z",
               "EditorCaption": ""
@@ -53,20 +53,20 @@
               "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib\\DataService.cs",
               "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint5\\Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib\\DataService.cs",
               "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib\\DataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T00:14:40.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint5\\Tyuiu.ZaharovVV.Sprint5.Task0.V27\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint5.Task0.V27\\Program.cs",
-              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint5\\Tyuiu.ZaharovVV.Sprint5.Task0.V27\\Program.cs",
-              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint5.Task0.V27\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint5\\Tyuiu.ZaharovVV.Sprint5.Task0.V27\\Program.cs*",
+              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint5.Task0.V27\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T00:14:11.06Z",
               "EditorCaption": ""

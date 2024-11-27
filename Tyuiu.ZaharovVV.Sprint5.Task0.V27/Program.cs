@@ -1,5 +1,4 @@
-﻿using Tyuiu.KulkoDA.Sprint5.Task0.V27.Lib;
-using Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib;
+﻿using Tyuiu.ZaharovVV.Sprint5.Task0.V27.Lib;
 namespace Tyuiu.KulkoDA.Sprint5.Task0.V27
 {
     internal class Program
