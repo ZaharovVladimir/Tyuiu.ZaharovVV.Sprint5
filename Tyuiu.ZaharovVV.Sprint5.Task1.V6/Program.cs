@@ -10,13 +10,13 @@ namespace Tyuiu.ZaharovVV.Sprint5.Task1.V6
             int stopValue = 5;
 
             DataService ds = new DataService();
-            Console.Title = "Спринт #5 | Выполнил: Шмелев А. В. | ИИПб-24-2";
+            Console.Title = "Спринт #5 | Выполнил: Захаров В. В. | ИСТНб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Класс File. Запись набора данных в текстовый файл                 *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #6                                                              *");
-            Console.WriteLine("* Выполнил: Шмелев Алексей Витальевич | ИИПб-24-2                         *");
+            Console.WriteLine("* Выполнила: Захаров Владимир Владимирович | ИСТНб-24-1                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дана функция, F(x) = cos(x) + 4 * x / 2 – sin(x) * 3 * x (произвести    *");
